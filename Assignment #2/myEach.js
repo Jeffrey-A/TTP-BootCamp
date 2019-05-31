@@ -1,4 +1,4 @@
-let x = [1,2,3];
+
 
 const myEach = (arr, callback) => {
 
@@ -7,8 +7,10 @@ const myEach = (arr, callback) => {
     }
 }
 
+//Testing
+let x = [1,2,3];
 function test(e){
     console.log(e*2);
 }
 
-console.log(myEach(x, test))
+myEach(x, test);

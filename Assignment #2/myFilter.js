@@ -11,6 +11,7 @@ const myFilter = (arr, callback) => {
 
 };
 
+//Testing
 let x = [1,2,3,4];
 
 console.log("JS Filter");
