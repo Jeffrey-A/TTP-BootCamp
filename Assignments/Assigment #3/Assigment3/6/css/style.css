@@ -1,0 +1,30 @@
+/* Exercise 6 */
+body{
+    background-color: #90CAF9;
+}
+
+form{
+    text-align: center;
+    margin-top: 70px;
+}
+
+#display{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#btn{
+    background-color: #0D47A1;
+    border-color: #0D47A1;
+    color: #fff;
+}
+
+#btn:hover{
+    background-color: #1565C0;
+    border-color: #1565C0;
+}
