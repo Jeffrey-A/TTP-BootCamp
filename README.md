@@ -1,2 +1,5 @@
 # TTP-BootCamp
-Intensive technical Bootcamp at Lehman College provided by the Tech Talent Pipeline Residency Program.
+  
+Intensive technical bootcamp focused on full stack JavaScript development.  
+
+Developed 3 front-end and 2 full stack web applications, plus the completion of many coding assignments.
